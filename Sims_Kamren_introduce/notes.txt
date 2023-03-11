@@ -1,0 +1,17 @@
+
+Brackets - is a piece of software to create text files. The file extension you save these as will determines the type of file that it is and how it loads.
+
+HTML, CSS and Javascript - primary coding languages used to create content for the web.
+
+HTML: Hypertext Markup Language - the main structure of any webpage. Allows you to setup the page and create your content. *Skeleton*
+
+CSS - Cascading Style Sheets - pairs with HTML and allows you to create and design the "look" and layout of the webpage.
+- Color, fonts
+- size, placement, shape of elements on the page
+- Responsive design
+*Skin,clothing*
+
+
+Javascript: dynamic, generative, data-driven
+- animation,randomizers, complex interfaces, search
+*Brain*
